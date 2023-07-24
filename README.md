@@ -13,8 +13,8 @@ Fitur :
 |  |  |
 |--|--|
 | *Fitur* | *Detail* |
-| Penghitung Luas Bangun Datar | Program penghitung luas bangun datar (persegi, persegi panjang, jajar genjang, trapesium, layang-layang, segitiga, belah ketupat, lingkaran |
-| Penghitung Keliling Bangun Datar | Program penghitung keliling bangun datar (persegi, persegi panjang, jajar genjang, trapesium, layang-layang, segitiga, belah ketupat, lingkaran |
+| Penghitung Luas Bangun Datar | Program penghitung luas bangun datar (persegi, persegi panjang, jajar genjang, trapesium, layang-layang, segitiga, belah ketupat, lingkaran) |
+| Penghitung Keliling Bangun Datar | Program penghitung keliling bangun datar (persegi, persegi panjang, jajar genjang, trapesium, layang-layang, segitiga, belah ketupat, lingkaran) |
 
 ### SCREENSHOT PROGRAM
 ![Aplikasi Gue](https://github.com/BataraMahardika/UAS-PraktikumSistemOperasi/blob/main/UAS.png)
